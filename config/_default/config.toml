@@ -2,7 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+theme = "congo"
+enableEmoji = true
+
+baseURL = "https://anurag.foo/"
+languageCode = "en"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
