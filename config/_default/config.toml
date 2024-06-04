@@ -4,6 +4,7 @@
 
 theme = "congo"
 enableEmoji = true
+timeZone = "Asia/Kolkata"
 
 baseURL = "https://anurag.foo/"
 languageCode = "en"
