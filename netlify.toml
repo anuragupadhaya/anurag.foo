@@ -7,7 +7,6 @@
 [build.environment]
   HUGO_VERSION = "0.119.0"
   NODE_ENV = "production"
-  TZ = "Asia/Kolkata"
 
 [context.production.environment]
   HUGO_ENV = "production"
