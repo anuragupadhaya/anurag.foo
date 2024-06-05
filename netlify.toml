@@ -11,4 +11,3 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  TZ = "Asia/Kolkata"
