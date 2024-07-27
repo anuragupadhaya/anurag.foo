@@ -7,10 +7,6 @@ tags = [
     "hello-world",
     "java",
 ]
-categories = [
-    "themes",
-    "syntax",
-]
 +++
 
 After years of procastination and lingering on the framework, platform, domain, theme and content, here's <mark>[anurag.foo](https://anurag.foo)</mark>
