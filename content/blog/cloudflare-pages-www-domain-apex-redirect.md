@@ -18,7 +18,7 @@ I tried fiddling around with Redirect rules, Page rules, A and CNAME records but
 
 <br>
 
-> I had an another wrong configuration wherein I had added my apex domain including `www` to the hugo site deployed through cloudflare pages (www.example.com). To resolve, I first had to remove the domain from pages and then reattach without `www`.
+I had an another wrong configuration wherein I had added my domain including `www` to the hugo site deployed through cloudflare pages (https://www.anurag.foo). To resolve, I first had to remove the domain from pages and then reattach without `www` (https://anurag.foo).
 
 <small>Sources:</small>
 
