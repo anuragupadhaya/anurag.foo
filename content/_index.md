@@ -19,7 +19,7 @@ I like to build solutions and always looking to solve the next exciting problem.
 
 ### Areas of Interest
 
-I am passionate about <u>Performace</u>, <u>Scalability</u>, <u>Architecture</u>, <u>CICD</u> & <u>Developer Productivity</u>.
+I am passionate about <u>Performance</u>, <u>Scalability</u>, <u>Architecture</u>, <u>CICD</u> & <u>Developer Productivity</u>.
 
 <hr>
 
