@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-### TLDR - If you've installed iOS 18 public beta, without creating a full iOS 17 backup on your computer, you can restore an iOS 18 backup to iOS 17 by modifying the `Product Version` in `Info.plist` file present in the local backup.
+#### TLDR - If you've installed iOS 18 public beta, without creating a full iOS 17 backup on your computer, you can restore an iOS 18 backup to iOS 17 by modifying the `Product Version` in `Info.plist` file present in the local backup.
 
 I recently gave it to the curiostiy and went ahead with installing iOS 18 beta on my iPhone (all thanks to the Apple beta software program I had signed up for years ago), without being careful enough to create a iOS 17 archive backup in case I need to revert back.
 
