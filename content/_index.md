@@ -7,9 +7,9 @@ style: "custom.css"
 
 I am **Anurag Upadhaya**, a _hands-on_ <mark>Full Stack Engineer</mark> 👨🏻‍💻.
 
-I like to build solutions and always looking to solve the next exciting problem.
+I am passionate about building solutions and looking to solve the next exciting problem.
 
-[Download my Resume](https://drive.google.com/file/d/1c9kJL-NLEQ2kpCx6fHCoTCdK2LgjBNDK/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1c9kJL-NLEQ2kpCx6fHCoTCdK2LgjBNDK/view?usp=sharing)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/anurag-upadhaya)
 
